@@ -37,18 +37,23 @@ The goal of this project is to provide an intuitive interface for users to exper
      - **SVM**: Regularization parameter (`C`), kernel type.
      - **KNN**: Number of neighbors.
      - **Decision Tree**: Maximum depth.
-
-#### 4. **Ensemble Voting**
+#### 4. **ML Technique used**   
+   - **Label Encoding**
+   - **Standard Scaling**
+   - **Imputation**
+   - **Train Test Split**
+   
+#### 5. **Ensemble Voting**
    - Users can choose between **hard voting** and **soft voting**:
      - **Hard Voting**: The final prediction is based on the majority vote of the individual models.
      - **Soft Voting**: The final prediction is based on the average predicted probabilities of the individual models.
 
-#### 5. **Results Display**
+#### 6. **Results Display**
    - The application displays the **accuracy** of each individual model.
    - It also shows the **accuracy of the ensemble voting**.
    - Results are presented in a clear and user-friendly format.
 
-#### 6. **Dataset Management**
+#### 7. **Dataset Management**
    - Users can delete uploaded datasets to free up space or remove outdated data.
 
 ---
