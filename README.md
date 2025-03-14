@@ -7,8 +7,8 @@ The goal of this project is to provide an intuitive interface for users to exper
 
 ## 🟢 Live : https://voting-assemble-classifier-tool.onrender.com
 ### Screenshots
-![image](https://github.com/user-attachments/assets/f25f94a9-a462-4d19-ac36-bd6fb73a231a)
-![image](https://github.com/user-attachments/assets/c82ceff3-ef67-42d3-9e9d-e04ca5076884)
+![image](https://github.com/user-attachments/assets/68961251-7491-43f5-a5cc-ad7104d0c6e3)
+![image](https://github.com/user-attachments/assets/3bc41e7a-4ff4-4724-8640-4b209c0eea69)
 ![image](https://github.com/user-attachments/assets/df909412-6045-4d4c-a378-57bc65cb2b23)
 ![image](https://github.com/user-attachments/assets/b81ad9d0-9d4e-4659-bed3-cea3c0105587)
 ![image](https://github.com/user-attachments/assets/07f8ac24-7323-40c4-95fc-22484d2435b7)
