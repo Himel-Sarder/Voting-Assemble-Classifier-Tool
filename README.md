@@ -160,8 +160,3 @@ The application is deployed using **Gunicorn** as the production server and host
 - **Advanced Preprocessing**: Add more preprocessing options (e.g., feature selection, outlier removal).
 - **Model Persistence**: Save trained models for future use.
 - **Visualizations**: Add charts and graphs to visualize model performance and predictions.
-
----
-
-### Screenshots
-Include screenshots of the application to give users a visual overview.
