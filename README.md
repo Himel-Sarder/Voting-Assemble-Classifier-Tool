@@ -1,4 +1,5 @@
 # Voting Ensemble Classifier Project
+![Blue Futuristic Modern Artificial Intelligence Video (1)](https://github.com/user-attachments/assets/33857f17-b4dc-4ee5-88bf-7b6f5a3ed4e2)
 
 ### Introduction
 This project is a **web-based application** built using Flask that allows users to upload datasets, select machine learning models, and perform **ensemble voting** to improve prediction accuracy. The application leverages the power of **Scikit-learn** to implement multiple classifiers and combines their predictions using either **hard voting** or **soft voting**.
