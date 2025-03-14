@@ -5,6 +5,7 @@ This project is a **web-based application** built using Flask that allows users 
 
 The goal of this project is to provide an intuitive interface for users to experiment with ensemble learning techniques without needing to write code. It is particularly useful for educational purposes, quick prototyping, or comparing the performance of different machine learning models.
 
+## 🟢 Live : https://voting-assemble-classifier-tool.onrender.com
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/f25f94a9-a462-4d19-ac36-bd6fb73a231a)
 ![image](https://github.com/user-attachments/assets/c82ceff3-ef67-42d3-9e9d-e04ca5076884)
